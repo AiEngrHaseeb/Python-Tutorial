@@ -5,4 +5,5 @@ Python is an easy to learn, powerful programming language. It has efficient high
 * Python 3 - the latest version of Python
    * Python Syntax.
    * Python Function.
-   * Python Control Flow
+   * Python Control Flow.
+   * Python Lists.
