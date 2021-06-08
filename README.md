@@ -11,3 +11,5 @@ Python is an easy to learn, powerful programming language. It has efficient high
    * Python String.
    * Python Dictionaries.
    * Python Classes.
+   * Python Modules.
+
